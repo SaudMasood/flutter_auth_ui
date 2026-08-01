@@ -171,13 +171,12 @@ flutter run
 
 **Saud Masood**
 
-BS Computer Science Student
+BS Computer Science Graguate
 
 Flutter Developer
 
 GitHub: https://github.com/SaudMasood
 
-LinkedIn: *(Add Your LinkedIn URL)*
 
 ---
 
