@@ -69,31 +69,45 @@ assets/
 └── icons/
 ```
 
----
 ## 📸 Screenshots
 
-### 🚀 Splash Screen
+<table align="center">
+<tr>
+<td align="center">
 
-![Splash Screen](lib/assets/images/splash_screen.jpg)
+<b>🚀 Splash Screen</b><br><br>
 
----
+<img src="lib/assets/images/splash_screen.jpg" width="220" alt="Splash Screen">
 
-### 🔐 Login Screen
+</td>
 
-![Login Screen](lib/assets/images/login_screen.jpg)
+<td align="center">
 
----
+<b>🔐 Login Screen</b><br><br>
 
-### 📝 Sign Up Screen
+<img src="lib/assets/images/login_screen.jpg" width="220" alt="Login Screen">
 
-![Sign Up Screen](lib/assets/images/signup_screen.jpg)
+</td>
+</tr>
 
----
+<tr>
+<td align="center">
 
-### 🏠 Home Screen
+<b>📝 Sign Up Screen</b><br><br>
 
-![Home Screen](lib/assets/images/home_screen.jpg)
+<img src="lib/assets/images/signup_screen.jpg" width="220" alt="Sign Up Screen">
 
+</td>
+
+<td align="center">
+
+<b>🏠 Home Screen</b><br><br>
+
+<img src="lib/assets/images/home_screen.jpg" width="220" alt="Home Screen">
+
+</td>
+</tr>
+</table>
 ---
 
 ## 🚀 Getting Started
