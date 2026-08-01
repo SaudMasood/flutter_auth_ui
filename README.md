@@ -74,25 +74,25 @@ assets/
 
 ### 🚀 Splash Screen
 
-![Splash Screen](lib/assets/images/splash_screen.png)
+![Splash Screen](lib/assets/images/splash_screen.jpg)
 
 ---
 
 ### 🔐 Login Screen
 
-![Login Screen](lib/assets/images/login_screen.png)
+![Login Screen](lib/assets/images/login_screen.jpg)
 
 ---
 
 ### 📝 Sign Up Screen
 
-![Sign Up Screen](lib/assets/images/signup_screen.png)
+![Sign Up Screen](lib/assets/images/signup_screen.jpg)
 
 ---
 
 ### 🏠 Home Screen
 
-![Home Screen](lib/assets/images/home_screen.png)
+![Home Screen](lib/assets/images/home_screen.jpg)
 
 ---
 
