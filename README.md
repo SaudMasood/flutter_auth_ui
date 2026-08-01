@@ -70,24 +70,29 @@ assets/
 ```
 
 ---
-
 ## 📸 Screenshots
 
-### Splash Screen
+### 🚀 Splash Screen
 
-> Add Screenshot Here
+![Splash Screen](lib/assets/images/splash_screen.png)
 
-### Login Screen
+---
 
-> Add Screenshot Here
+### 🔐 Login Screen
 
-### Sign Up Screen
+![Login Screen](lib/assets/images/login_screen.png)
 
-> Add Screenshot Here
+---
 
-### Home Screen
+### 📝 Sign Up Screen
 
-> Add Screenshot Here
+![Sign Up Screen](lib/assets/images/signup_screen.png)
+
+---
+
+### 🏠 Home Screen
+
+![Home Screen](lib/assets/images/home_screen.png)
 
 ---
 
